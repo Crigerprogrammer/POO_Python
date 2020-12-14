@@ -53,3 +53,8 @@
 - Permite modelar una jerarquía de clases.
 - Permite compartir comportamiento común en la jerarquía.
 - Al padre se le conoce como superclase y al hijo como subclase.
+
+### Polimorfismo
+- La habilidad de tomar varias formas
+- En Python, nos permite cambiar el comportamiento de una superclase para adaptarlo a la subclase
+
