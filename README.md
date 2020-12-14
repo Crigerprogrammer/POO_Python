@@ -58,3 +58,13 @@
 - La habilidad de tomar varias formas
 - En Python, nos permite cambiar el comportamiento de una superclase para adaptarlo a la subclase
 
+### Introducción a la complejidad algorítmica
+- ¿Por qué comparamos la eficiencia de un algoritmo?
+- Complejidad temporal vs complejidad espacial
+- Podemos definirla como T(n)
+
+### Aproximaciones 
+- Cronometrar el tiempo en el que corre un algoritmo
+- Contar los pasos con una medida abstracta de operación
+- Contar los pasos conforme nos aproximamos al infinito.
+
