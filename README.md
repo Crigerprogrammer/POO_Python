@@ -38,3 +38,8 @@
 - Partir un problema en problemas más pequeños
 - Las clases permiten crear mayores abstracciones en forma de componentes
 - Cada clase se encarga de una parte del problema y el programa se vuelve más fácil de mantener
+
+### Abstracción 
+- Enfocarnos en la información relevante.
+- Separar la información central de los detalles secundarios.
+- Podemos utilizar variables y métodos (privados o públicos)
