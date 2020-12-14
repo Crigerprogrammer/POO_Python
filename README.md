@@ -43,3 +43,8 @@
 - Enfocarnos en la información relevante.
 - Separar la información central de los detalles secundarios.
 - Podemos utilizar variables y métodos (privados o públicos)
+
+### Encapsulación
+- Permite agrupar datos y su comportamiento.
+- Controla el acceso a dichos datos
+- Previene modificaciones no autorizadas.
