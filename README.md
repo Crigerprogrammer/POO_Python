@@ -16,3 +16,9 @@
     - Creación
     - Manipulación
     - Destrucción
+
+- Ventajas: 
+    - Decomposición
+    - Abstracción
+    - Encapsulación
+
