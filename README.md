@@ -48,3 +48,8 @@
 - Permite agrupar datos y su comportamiento.
 - Controla el acceso a dichos datos
 - Previene modificaciones no autorizadas.
+
+### Herencia 
+- Permite modelar una jerarquía de clases.
+- Permite compartir comportamiento común en la jerarquía.
+- Al padre se le conoce como superclase y al hijo como subclase.
