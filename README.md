@@ -82,3 +82,10 @@
 - O (n log n) log lineal
 - O(n**2) Polinomial
 - O (2**n) Exponencial
+
+## Algoritmos de Búsqueda y Ordenación
+---
+
+### Búsqueda Lineal
+- Busca en todos los elementos de manera secuencial
+- ¿Cuál es el peor caso?
