@@ -13,7 +13,7 @@ def busqueda_lineal(lineal, objetivo):
 
 if __name__ == '__main__':
     tamano_de_lista = int(input('De que tamaño sera la lista?'))
-    objetivo = int(input('Que numero quieres encontraR?'))
+    objetivo = int(input('Que numero quieres encontrar?'))
 
     lista = [random.randint(0, 100) for i in range(tamano_de_lista)]
 

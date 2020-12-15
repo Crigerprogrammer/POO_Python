@@ -89,3 +89,8 @@
 ### Búsqueda Lineal
 - Busca en todos los elementos de manera secuencial
 - ¿Cuál es el peor caso?
+
+### Búsqueda binaria
+- Divide y conquista
+- El problema se divide en 2 en cada iteración
+- ¿Cuál es el peor caso?
