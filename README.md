@@ -68,3 +68,9 @@
 - Contar los pasos con una medida abstracta de operación
 - Contar los pasos conforme nos aproximamos al infinito.
 
+### Crecimiento asintótico
+- No importan variaciones pequeñas.
+- El enfoque se centra en lo que pasa conforme el tamaño del problema se acerca al infinito
+- Mejor de los casos, promedio, peor de los casos
+- Big O
+- Nada más importa el término de mayor tamaño
