@@ -74,3 +74,11 @@
 - Mejor de los casos, promedio, peor de los casos
 - Big O
 - Nada más importa el término de mayor tamaño
+
+### Clases de complejidad algorítmica
+- O(1) Constante
+- O(n) Lineal
+- O(log n) Logarítmica
+- O (n log n) log lineal
+- O(n**2) Polinomial
+- O (2**n) Exponencial
