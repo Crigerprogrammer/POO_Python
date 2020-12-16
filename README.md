@@ -97,3 +97,12 @@
 
 ### Ordenamiento de Burbuja
 El ordenamiento de burbuja es un algoritmo que recorre repetidamente una lista que necesita ordenarse. Compara elementos adyacentes y los intercambia si están en el orden incorrecto. Este procedimiento se repite hasta que no se requieren más intercambios, lo que indica que la lista se encuentra ordenada. 
+
+### Ordenamiento por inserción
+El ordenamiento por inserción es uno de los algoritmos más comunes que estudian
+los Científicos del Cómputo. Es intuitivo y fácil de implementar, pero es muy
+ineficiente para listas de gran tamaño.
+
+Una de las características del ordenamiento por inserción es que ordena en “su
+lugar.” Es decir, no requiere memoria adicional para realizar el ordenamiento
+ya que simplemente modifican los valores en memoria.
