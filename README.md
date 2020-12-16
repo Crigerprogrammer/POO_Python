@@ -94,3 +94,6 @@
 - Divide y conquista
 - El problema se divide en 2 en cada iteración
 - ¿Cuál es el peor caso?
+
+### Ordenamiento de Burbuja
+El ordenamiento de burbuja es un algoritmo que recorre repetidamente una lista que necesita ordenarse. Compara elementos adyacentes y los intercambia si están en el orden incorrecto. Este procedimiento se repite hasta que no se requieren más intercambios, lo que indica que la lista se encuentra ordenada. 
