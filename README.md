@@ -106,3 +106,7 @@ ineficiente para listas de gran tamaño.
 Una de las características del ordenamiento por inserción es que ordena en “su
 lugar.” Es decir, no requiere memoria adicional para realizar el ordenamiento
 ya que simplemente modifican los valores en memoria.
+
+### Ordenamiento por mezcla
+
+El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide una lista en partes iguales hasta que quedan sublistas de 1 a 0 elementos. Luego las recombina en forma ordenada
