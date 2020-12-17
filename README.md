@@ -110,3 +110,9 @@ ya que simplemente modifican los valores en memoria.
 ### Ordenamiento por mezcla
 
 El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide una lista en partes iguales hasta que quedan sublistas de 1 a 0 elementos. Luego las recombina en forma ordenada
+
+## Ambientes virtuales 
+
+- Permiten aislar el ambiente para poder instalar diversas versiones de paquetes. 
+- A partir de pyhton 3 se incluye en la librería estándar en el módulo venv
+- Nin´gun ingeniero profesional de Python trabaja sin ellos.
