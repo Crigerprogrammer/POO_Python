@@ -116,3 +116,9 @@ El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide
 - Permiten aislar el ambiente para poder instalar diversas versiones de paquetes. 
 - A partir de pyhton 3 se incluye en la librería estándar en el módulo venv
 - Nin´gun ingeniero profesional de Python trabaja sin ellos.
+
+### Pip
+
+- Permite descargar paquetes de terceros para utilizar en nuestro programa.
+- Permite compartir nuestros paquetes con terceros. 
+- Permite especificar la versión del paquete que necesitamos.
