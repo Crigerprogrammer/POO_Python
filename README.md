@@ -123,3 +123,7 @@ El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide
 - Permite compartir nuestros paquetes con terceros. 
 - Permite especificar la versión del paquete que necesitamos.
 
+## ¿Por qué graficar?
+- Reconocimiento de patrones
+- Predicción de una serie
+- Simplifica la interpretación y las conclusiones acerca de los datos.
