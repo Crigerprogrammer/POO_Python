@@ -122,3 +122,4 @@ El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide
 - Permite descargar paquetes de terceros para utilizar en nuestro programa.
 - Permite compartir nuestros paquetes con terceros. 
 - Permite especificar la versión del paquete que necesitamos.
+
