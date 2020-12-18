@@ -1,4 +1,4 @@
-import bokeh.plotting import figure, output_file, show
+from bokeh.plotting import figure, output_file, show
 
 if __name__ == '__main__':
     output_file('graficado_simple.html')
@@ -14,4 +14,3 @@ if __name__ == '__main__':
 
     fig.line(x_vals, y_vals, line_width=2)
     show(fig)
-    
