@@ -132,3 +132,8 @@ El ordenamiento por mezcla es un algoritmo de divide y conquista. Primero divide
 - Bokeh permite construir gráficas complejas de manera rápida y con comandos simples.
 - Permite exportar a varios formatos como html, notebooks, imágenes, etc.
 - Bokeh se puede utilizar en el servidor con Flask y DJango
+
+### Introducción a la optimización
+- El concepto de optimización permite resolver mucho problemas de manera computacional.
+- Una función objetivo que debemos maximizar o minimizar
+- Una serie de limitantes que debemos respetar
